@@ -43,6 +43,10 @@
     padding: 20px;
    
 }
+.card-hover:hover{
+    background-color: wheat;
+    transform: translateY(3px);
+}
 .card-bg-color{
     background-color: rgb(203, 218, 195);
 }
