@@ -1,0 +1,67 @@
+.container{
+    margin-bottom: 70px;
+}
+.bg-color{
+    background-color: rgb(211, 231, 181);
+   
+}
+.logo-size{
+    width: 120px;
+    height: 40px;
+}
+.button-style{
+    background-color: rgb(28, 175, 28);
+    border-radius: 40px;
+    padding: 5px 20px;
+    border: none;
+}
+.red-text{
+    color: red;
+}
+.span-color{
+    color: rgb(28, 175, 28);
+}
+.icon-style{
+    width: 20px;
+    height: 20px;
+}
+.margin-added{
+    margin: 50px;
+    text-align: center;
+}
+.img-sizing{
+    width: 60px;
+    height: 60px;
+}
+.alignment{
+    text-align: center;
+}
+.card{
+    border: none;
+    border-radius: 10px;
+    box-shadow: 5px 5px 10px rgb(102, 134, 167);
+    padding: 20px;
+   
+}
+.card-bg-color{
+    background-color: rgb(203, 218, 195);
+}
+.card-footer{
+    background-color: white;
+    border-top: none;
+}
+#radius{
+    border-radius: 50%;
+    width: 100px;
+    height: 100px;
+}
+.pointer-remove{
+    list-style-type: none;
+}
+footer{
+    text-align: center;
+    background-color: rgb(32, 30, 30);
+    padding: 50px;
+    color: white;
+    
+}
